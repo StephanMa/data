@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>The Latin Prose and
+			Poetry of Joseph Addison - Digital Scholarly Editions Catalog Entry</title>
+                <author>Catalog entry by PS</author>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Research data collection, DSE catalog v. 4.0, based on earlier work (1996-2020)</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change notAfter="2012" who="PS" type="creation"/>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <bibl>
+                <title>The Latin Prose and
+			Poetry of Joseph Addison</title>
+                <rs type="sortkey">Addison</rs>
+                <ref>http://www.philological.bham.ac.uk/Addison/</ref>
+                <edition>Ed. by Dana F. Sutton. Irvine (CA): University of
+					California, 1997-2005.</edition>
+                <date type="firstPubliction" when="1997"/>
+            </bibl>
+            <p> Nennt sich selbst "A hypertext critical edition".
+				Tatsächlich handelt es sich um eine einfache (allerdings philologisch kontrollierte)
+				Textausgabe mit Anmerkungsapparat und Übersetzung. Das Ganze ist Teil des
+				"Philological Museum", einer digitalen Bibliothek neulateinischer Texte.</p>
+            <note type="labels">critical text, translation, apparatus, html</note>
+            <desc type="material" ana="collected_works"/>
+            <desc type="subject" ana="literature"/>
+            <desc type="language" ana="la"/>
+            <desc type="era" ana="early_m"/>
+        </body>
+    </text>
+</TEI>
