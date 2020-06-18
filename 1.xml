@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>L’année 1437 dans
+			la pratique de Pierre Christofle, notaire du Châtelet d’Orléans - Digital Scholarly Editions Catalog Entry</title>
+                <author>Catalog entry by PS</author>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Research data collection, DSE catalog v. 4.0, based on earlier work (1996-2020)</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change when="2018-02-21" who="PS" type="creation"/>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <bibl>
+                <title>L’année 1437 dans
+			la pratique de Pierre Christofle, notaire du Châtelet d’Orléans</title>
+                <rs type="sortkey">1437</rs>
+                <ref>http://elec.enc.sorbonne.fr/christofle/index.html</ref>
+                <edition>Par Kouky Fianu avec la collaboration d’Anne Fortier.
+					Paris: École nationale des chartes, 2016.</edition>
+                <date type="firstPubliction" when="2016"/>
+            </bibl>
+            <p>
+				 "Pierre Christofle fut notaire
+				royal à Orléans de 1423 à 1450, attaché à la prévôté pour qui il rédigeait des
+				contrats portant le sceau de l’institution. Comme ses confrères, Pierre Christofle
+				inscrivait dans un registre et en une forme abrégée les conventions qu’il attestait.
+				Ces notes, au nombre de 387, rédigées entre le 1er janvier et le 29 décembre 1437,
+				conservées aux Archives départementales du Loiret sous la cote 3E 10144, sont ici
+				éditées dans leur ensemble. L’édition, indexée et prochainement téléchargeable,
+				permet l’enquête sur le lexique des actes." [from resource] </p>
+            <note type="labels">[hier stehen normalerweise Kommentare von mir zum internen Gebrauch]</note>
+            <desc type="material" ana="charters">Kopiar, Notariatsurkunden</desc>
+            <desc type="subject" ana="history"/>
+            <desc type="language" ana="fr"/>
+            <desc type="era" ana="late_ma"/>
+        </body>
+    </text>
+</TEI>
